@@ -1,0 +1,3 @@
+class centos-harden{
+
+}
